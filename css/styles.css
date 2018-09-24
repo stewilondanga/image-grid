@@ -33,10 +33,11 @@
   transition: all .3s;
 }
 
-/*.gallery-item:hover {
+.gallery-item:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.8);
 }
-.gallery-item img {
+
+/*.gallery-item img {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
