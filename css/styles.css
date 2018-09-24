@@ -13,11 +13,11 @@
   height: 1.5em;
 }
 
-/*.container {
+.container {
   margin: 2rem auto;
 }
 
-.gallery {
+/*.gallery {
   display: grid;
   max-width: 100%;
   margin: 0 auto;
